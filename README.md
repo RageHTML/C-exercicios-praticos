@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="90" height="90">
+  <img src="./images/logo.png" alt="Logo" width="90" height="90">
   <h2>C Exercícios Práticos</h2>
   <p>Projetos simples em C para prática de lógica e fundamentos</p>
 </div>
@@ -22,10 +22,7 @@ Inclui exemplos como:
 
 ## 🚀 Linguagem Utilizada
 
-* [![C][C-shield]][C-url]
-
 [C-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-[C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 ---
 
@@ -40,6 +37,7 @@ Inclui exemplos como:
 
 ```bash
 git clone https://github.com/RageHTML/C-exercicios-praticos.git && cd C-exercicios-praticos && gcc main.c -o programa && ./programa
+```
 
 ## 🧠 Uso
 
