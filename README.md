@@ -1,82 +1,58 @@
-# Corriga
-
 <a id="readme-top"></a>
 
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="images/logo.png" alt="Logo" width="90" height="90">
+  <h2>C Exercícios Práticos</h2>
+  <p>Projetos simples em C para prática de lógica e fundamentos</p>
 </div>
 
-<details>
-  <summary>Sumário</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre esse Projeto</a>
-      <ul>
-        <li><a href="#built-with">Linguagem Usada</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Primeiros Passos</a>
-      <ul>
-        <li><a href="#prerequisites">Pré-Requisitos</a></li>
-        <li><a href="#installation">Como Rodar</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Uso do Projeto</a></li>
-    <li><a href="#contact">Contato</a></li>
-  </ol>
-</details>
+---
 
-## Sobre esse Projeto
+## 📌 Sobre o Projeto
 
-[![Projetos em C][C-shield]][C-url]
+Este repositório contém exercícios básicos em linguagem C, desenvolvidos com foco na prática dos fundamentos da programação.
 
-Este repositório reúne alguns projetos básicos desenvolvidos em linguagem C, com foco na prática dos fundamentos da programação. Entre eles, estão o cálculo da área de uma circunferência e a simulação de um saldo final após um mês, aplicando operações matemáticas e lógica simples. Esses exemplos foram criados para reforçar conceitos essenciais e servir como base para estudos mais avançados.
+Inclui exemplos como:
+- Cálculo da área de uma circunferência
+- Simulação de saldo após um período
+- Operações matemáticas simples
 
-<p align="right">(<a href="#readme-top">voltar para cima</a>)</p>
+---
 
-### Linguagem Usada
+## 🚀 Linguagem Utilizada
 
-* [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* [![C][C-shield]][C-url]
 
-<p align="right">(<a href="#readme-top">voltar para cima</a>)</p>
+[C-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
 
-## Primeiros Passos
+---
 
-### Pré-Requisitos
+## ⚙️ Pré-requisitos
 
-* Um compilador C (como o GCC)
-* Um terminal (Linux, macOS ou Windows com WSL/MinGW/Git Bash)
+- GCC instalado
+- Terminal (Linux, macOS ou Windows com WSL/MinGW)
 
-### Como Rodar
+---
 
-# Clone o repositório
-git clone https://github.com/RageHTML/C-exercicios-praticos.git
+## 📥 Como Baixar e Rodar
 
-# Entre na pasta do projeto
-cd C-exercicios-praticos
+```bash
+git clone https://github.com/RageHTML/C-exercicios-praticos.git && cd C-exercicios-praticos && gcc main.c -o programa && ./programa
 
-# Compile o código
-gcc cal-area.c -o calcula_area
+## 🧠 Uso
 
-# Execute o programa
-./calcula_area
+Este projeto pode ser utilizado para:
+- Praticar lógica de programação
+- Aprender entrada e saída em C
+- Reforçar conceitos matemáticos básicos
+- Servir como base para estudos mais avançados
 
-### Pré Requisitos
-# Verifique se o gcc está instalado
-gcc --version
+## 📬 Contato
 
-# Se não estiver instalado, instale com um dos comandos abaixo:
+Deyvid Martins  
+https://www.linkedin.com/in/deyvid-martins/
 
-# Ubuntu/Debian
-sudo apt install gcc
-
-# Fedora
-sudo dnf install gcc
-
-# Arch Linux
-sudo pacman -S gcc
-
-# macOS (com Homebrew)
-brew install gcc
+Projeto:
+https://github.com/RageHTML/C-exercicios-praticos
