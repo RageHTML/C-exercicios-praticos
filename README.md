@@ -22,7 +22,7 @@ Inclui exemplos como:
 
 ## 🚀 Linguagem Utilizada
 
-[C-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -35,9 +35,13 @@ Inclui exemplos como:
 
 ## 📥 Como Baixar e Rodar
 
-```bash
-git clone https://github.com/RageHTML/C-exercicios-praticos.git && cd C-exercicios-praticos && gcc main.c -o programa && ./programa
-```
+
+ 
+```git clone https://github.com/RageHTML/C-exercicios-praticos.git```
+```cd C-exercicios-praticos```
+```gcc main.c -o programa``` 
+```./programa```
+
 
 ## 🧠 Uso
 
