@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <img src="./images/logo.png" alt="Logo" width="90" height="90">
+  <img src="./images/logo.jpg" alt="Logo" width="90" height="90">
   <h2>C Exercícios Práticos</h2>
   <p>Projetos simples em C para prática de lógica e fundamentos</p>
 </div>
@@ -22,7 +22,7 @@ Inclui exemplos como:
 
 ## 🚀 Linguagem Utilizada
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
 
 ---
 
