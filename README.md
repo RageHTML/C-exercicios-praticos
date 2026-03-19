@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <img src="./images/logo.jpg" alt="Logo" width="90" height="90">
+  <img src="./images/logo.jpg" alt="Logo" width="600" height="800">
   <h2>C Exercícios Práticos</h2>
   <p>Projetos simples em C para prática de lógica e fundamentos</p>
 </div>
